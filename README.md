@@ -4,14 +4,14 @@
 	<br>
 </div>
 
-# <img src="aboutb.png"  width="30px"/> About Natnael:
+# <img src="aboutc.png"  width="30px"/> About Natnael:
 Hello 👋 Aspiring Junior Frontend Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
 Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
 - 💬 I'm currently working on **React.js**
 - 🌱 I’m currently learning **Node.js**
-- ⚡ Check out my lateset website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a>
+- ⚡ Check out my lateset website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" />
 
-# Connect with me: 
+# <img src="aboutc.png"  width="30px"/> Contact with me: 
 <p align="left">
 <a href="https://linkedin.com/in/natnael abebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael abebe" height="30" width="40" /></a>
 <a href="https://fb.com/natty abebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="natty abebe" height="30" width="40" /></a>
