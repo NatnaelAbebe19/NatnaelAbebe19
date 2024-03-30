@@ -3,6 +3,6 @@
 	<br>
 	<br>
 </div>
- ** I love to code &nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp; **
+<p><i>I love code</i> <img src="cat-typing.gif" /> and Chess </p>
 <!--
 **NatnaelAbebe19/NatnaelAbebe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
