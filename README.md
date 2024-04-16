@@ -13,7 +13,7 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
  I love code  <img width="50px" src="cat-typing.gif" /> And Chess <img width="50px" src="chess.gif" />
 
 # <img src="social.png"  width="30px"/> Contact with me: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathaniel_abebe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelabebe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Natnael163260)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathaniel_abebe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelabebe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/natnaelabebe)
 
 #  💻Languages and Tools
 <br />
