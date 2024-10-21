@@ -6,7 +6,7 @@
 # <img src="aboutc.png"  width="30px"/> About Natnael:
 Hello 👋 Aspiring Junior Frontend Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
 Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
-- 💬 I'm currently working on **React.js**
+- 💬 I'm currently working on **React.js and Laravel 11** as a backend
 - 🌱 I’m currently learning **Node.js**
 - ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" />
 
