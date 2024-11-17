@@ -4,12 +4,12 @@
 </div>
 
 # <img src="aboutc.png"  width="30px"/> About Natnael:
-Hello 👋 Aspiring Junior Frontend Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
+Hello 👋 Aspiring Junior Full Stack Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
 Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
-- 💬 I'm currently working on **React.js and Laravel 11** as a backend
-- ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" />
-
- I love code  <img width="50px" src="cat-typing.gif" /> And Chess <img width="50px" src="chess.gif" />
+- 💬 I'm currently working on **Vue.js and Laravel 11** 
+- ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" /> Check my Portifolio
+- 💻 <a href="http://natsfolio.vercel.app/" target="_blank">Portfolio</a>
+- I love code  <img width="50px" src="cat-typing.gif" /> And Chess <img width="50px" src="chess.gif" />
 
 # <img src="social.png"  width="30px"/> Contact with me: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathaniel_abebe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelabebe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Natnael163260)
