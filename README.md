@@ -2,7 +2,7 @@
   <img src="welcome-header.gif" alt="Welcome to my GitHub profile" />
   <h1>Hi, I'm Natnael 👋</h1>
   <p>
-    Full Stack Developer • UI-focused builder • Always learning
+    Full Stack Developer • Backend-focused builder • Always learning
   </p>
 </div>
 
