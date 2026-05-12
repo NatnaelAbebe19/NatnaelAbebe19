@@ -19,7 +19,7 @@
 
 - 💼 Full Stack Developer at **QMT**
 - 🛠️ Currently building with **Vue.js** and **Laravel 11/12**
-- 🌐 Latest project: **[Audiophile E-commerce](https://audiophile-ecommerce-ebon.vercel.app/)**
+- 🌐 Latest project: **[Audiophile Ecommerce](https://audiophile-ecommerce-ebon.vercel.app/)**
 - ♔ I enjoy coding, design systems, and chess
 
 <div align="center">
