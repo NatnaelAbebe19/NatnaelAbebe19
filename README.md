@@ -1,59 +1,143 @@
 <div align="center">
-  <img src="welcome-header.gif" alt="Welcome to my GitHub profile" />
-  <h1>Hi, I'm Natnael 👋</h1>
-  <p>
-    Full Stack Developer • Backend-focused builder • Always learning
-  </p>
+
+  <!-- Welcome Header Banner -->
+  <img src="welcome-header.gif" alt="Welcome Header" />
+
+  <br/><br/>
+
+  <!-- Glassmorphic Social Badges -->
+  <a href="https://www.linkedin.com/in/natnael-tiku-3966a0381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://natsfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f2fe" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/Natnael163260">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/nathaniel_abebe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/natnaelabebe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/nathaniel_abebe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/Natnael163260"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="http://natsfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</div>
+<br/>
 
----
+<img src="assets/glass-divider.svg" width="100%" alt="Glass Divider" />
+
+<br/>
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at **QMT**
-- 🛠️ Currently building with **Vue.js** and **Laravel 11/12**
-- 🌐 Latest project: **[Audiophile Ecommerce](https://audiophile-ecommerce-ebon.vercel.app/)**
-- ♔ I enjoy coding, design systems, and chess
-
 <div align="center">
-  <img src="cat-typing.gif" width="70" alt="Typing cat" />
-  <img src="chess.gif" width="70" alt="Chess" />
+  <img src="assets/glass-about.svg" width="100%" alt="About Natnael Glass Card" />
 </div>
 
----
+<br/>
 
-## 🧰 Tech Stack
+```yaml
+Name: Natnael Abebe
+Role: Full Stack Developer @ QMT
+Specialties: Laravel 12, Vue.js, REST APIs, UI/UX Design Systems
+Current Focus: Scalable Web Apps & High Performance Backends
+Passions: Clean Architecture, Modern Web Aesthetics, Chess Strategy ♟️
+```
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
-</p>
+<br/>
 
----
+<img src="assets/glass-divider.svg" width="100%" alt="Glass Divider" />
+
+<br/>
+
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="under-construction.gif" alt="Under construction" />
-  <img src="party-furby.gif" width="45" alt="Party furby" />
-  <img src="flames.gif" alt="Flames" />
+  <h3>⚡ Languages & Core</h3>
+  <p>
+    <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
+    <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  </p>
+
+  <h3>🎨 Frontend & Styling</h3>
+  <p>
+    <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
+    <a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /></a>
+  </p>
+
+  <h3>⚙️ Backend & Database</h3>
+  <p>
+    <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /></a>
+  </p>
+
+  <h3>📐 Tools & Design</h3>
+  <p>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+    <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" /></a>
+  </p>
+</div>
+
+<br/>
+
+<img src="assets/glass-divider.svg" width="100%" alt="Glass Divider" />
+
+<br/>
+
+## 🌐 Featured Project
+
+<table>
+  <tr>
+    <td width="100%" stroke="none">
+      <h3 fill="#00f2fe">🏫 Eschool-Link</h3>
+      <p>A comprehensive E-school management system designed to streamline school administration, academic tracking, student records, and interactive portal workflows.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+<img src="assets/glass-divider.svg" width="100%" alt="Glass Divider" />
+
+<br/>
+
+## ☕ Beyond Code & Personal Corner
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="cat-typing.gif" width="100" alt="Cat Typing" />
+        <br/>
+        <sub><b>Always Coding</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="chess.gif" width="100" alt="Chess Game" />
+        <br/>
+        <sub><b>Tactical Mindset</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="party-furby.gif" width="70" alt="Party Furby" />
+        <br/>
+        <sub><b>Good Vibes</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed  by <b>Natnaels </b> @2024</sub>
 </div>

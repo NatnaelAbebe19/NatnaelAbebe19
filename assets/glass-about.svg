@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="100%">
+  <style>
+    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; }
+    .tile-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .tile-title-1 { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #58a6ff; letter-spacing: 0.5px; }
+    .tile-title-2 { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #bc8cff; letter-spacing: 0.5px; }
+    .tile-title-3 { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #ff7b72; letter-spacing: 0.5px; }
+    .tile-title-4 { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #d29922; letter-spacing: 0.5px; }
+    .tile-desc { font-family: 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #f0f6fc; }
+    .tile-sub { font-family: 'Segoe UI', sans-serif; font-size: 12px; font-weight: 400; fill: #8b949e; }
+  </style>
+
+  <!-- Solid Main Container Background -->
+  <rect width="850" height="220" rx="16" class="card-bg"/>
+
+  <!-- Grid Layout of 4 Solid Color Tiles -->
+  
+  <!-- Tile 1: Work -->
+  <g transform="translate(30, 25)">
+    <rect width="375" height="78" rx="12" class="tile-bg"/>
+    <text x="20" y="28" class="tile-title-1">💼 CURRENT POSITION</text>
+    <text x="20" y="52" class="tile-desc">Full Stack Developer @ QMT</text>
+    <text x="20" y="68" class="tile-sub">Building scalable enterprise solutions &amp; APIs</text>
+  </g>
+
+  <!-- Tile 2: Tech Stack -->
+  <g transform="translate(445, 25)">
+    <rect width="375" height="78" rx="12" class="tile-bg"/>
+    <text x="20" y="28" class="tile-title-2">🛠️ CORE FRAMEWORKS</text>
+    <text x="20" y="52" class="tile-desc">Laravel 12 &amp; Vue 3 Ecosystem</text>
+    <text x="20" y="68" class="tile-sub">PostgreSQL, MySQL, REST APIs, PHP</text>
+  </g>
+
+  <!-- Tile 3: Featured Project -->
+  <g transform="translate(30, 117)">
+    <rect width="375" height="78" rx="12" class="tile-bg"/>
+    <text x="20" y="28" class="tile-title-3">🌐 LATEST PROJECT</text>
+    <text x="20" y="52" class="tile-desc">Eschool-Link Platform</text>
+    <text x="20" y="68" class="tile-sub">Comprehensive E-school management system</text>
+  </g>
+
+  <!-- Tile 4: Passion -->
+  <g transform="translate(445, 117)">
+    <rect width="375" height="78" rx="12" class="tile-bg"/>
+    <text x="20" y="28" class="tile-title-4">♟️ PASSIONS &amp; INTERESTS</text>
+    <text x="20" y="52" class="tile-desc">Design Systems &amp; Chess</text>
+    <text x="20" y="68" class="tile-sub">Crafting seamless interfaces &amp; strategic code</text>
+  </g>
+</svg>
