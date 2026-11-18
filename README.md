@@ -29,19 +29,17 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="assets/glass-about.svg" width="100%" alt="About Natnael Glass Card" />
-</div>
+Hey, I'm **Natnael** 👋
+
+I started out obsessed with how interfaces look and feel, got pulled into how systems work under the hood, and never really picked a side. Today I build full-stack web apps from scratch — sketching the experience in **Figma**, bringing it to life in **Vue** or **React**, and wiring up the backend logic and database in **Laravel**.
+
+Most of my days are spent shipping production software at **QMT**, and most of my breaks are spent blundering my queen in rapid chess ♟️.
 
 <br/>
 
-```yaml
-Name: Natnael Abebe
-Role: Full Stack Developer @ QMT
-Specialties: Laravel 12, Vue.js, REST APIs, UI/UX Design Systems
-Current Focus: Scalable Web Apps & High Performance Backends
-Passions: Clean Architecture, Modern Web Aesthetics, Chess Strategy ♟️
-```
+<div align="center">
+  <img src="assets/glass-about.svg" width="100%" alt="About Natnael Glass Card" />
+</div>
 
 <br/>
 
@@ -139,5 +137,5 @@ Passions: Clean Architecture, Modern Web Aesthetics, Chess Strategy ♟️
 <br/>
 
 <div align="center">
-  <sub>Designed  by <b>Natnaels </b> @2024</sub>
+  <sub>Designed  by <b>Natnaels </b> @2026</sub>
 </div>
